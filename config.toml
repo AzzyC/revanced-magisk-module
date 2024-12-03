@@ -19,7 +19,7 @@ arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
 [Music-Extended]
-#enabled = false
+enabled = false
 app-name = "Music"
 build-mode = "apk"
 arch = "arm64-v8a"
@@ -29,7 +29,7 @@ rv-brand = "ReVanced Extended"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube-Extended]
-#enabled = false
+enabled = false
 app-name = "YouTube"
 build-mode = "both"
 arch = "arm64-v8a"
@@ -39,7 +39,7 @@ rv-brand = "ReVanced Extended"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Reddit-Extended]
-#enabled = false
+enabled = false
 app-name = "Reddit"
 build-mode = "both"
 arch = "arm64-v8a"
