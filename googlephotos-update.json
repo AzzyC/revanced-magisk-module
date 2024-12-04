@@ -1,6 +1,6 @@
 {
-  "version": "v7.9.0.700107295 (1)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/AzzyC/revanced-magisk-module/releases/download/1/googlephotos-revanced-magisk-v7.9.0.700107295-arm64-v8a.zip",
+  "version": "v7.10.0.701775512 (2)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/AzzyC/revanced-magisk-module/releases/download/2/googlephotos-revanced-magisk-v7.10.0.701775512-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/AzzyC/revanced-magisk-module/update/build.md"
 }
