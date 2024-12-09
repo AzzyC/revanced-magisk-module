@@ -24,7 +24,7 @@ rv-brand = "ReVanced Extended"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube-Extended]
-enabled = false
+#enabled = false
 app-name = "YouTube"
 build-mode = "both"
 arch = "arm64-v8a"
@@ -62,7 +62,7 @@ arch = "arm64-v8a"
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 
 [Messenger]
-#enabled = false
+enabled = false
 build-mode = "module"
 arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
